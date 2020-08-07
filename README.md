@@ -1,6 +1,6 @@
-# Indian Proxy [Updated in JSON]
+# US Proxy [Updated in JSON]
 
-### Indian Proxies from various sources updated every 15 minutes!
+### USA Proxies from various sources updated every 15 minutes!
 
 #### Currently Proxies are scraped from:
   - Fate0
