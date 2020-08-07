@@ -1,0 +1,11 @@
+requests
+schedule
+beautifulsoup4
+datetime
+pprint
+pytz
+Flask
+gunicorn
+httplib2
+bs4
+lxml
